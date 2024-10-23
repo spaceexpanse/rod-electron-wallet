@@ -1,6 +1,6 @@
 [![License](http://img.shields.io/badge/Licence-MIT-brightgreen.svg)](LICENSE.md
 )
-
+ 
 # Introduction
 
 The XAYA wallet uses Angular and Electron to build the wallet.
